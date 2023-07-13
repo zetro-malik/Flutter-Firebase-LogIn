@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "967513354972",
+    "project_id": "fir-course-ffa45",
+    "storage_bucket": "fir-course-ffa45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967513354972:android:e8588125ee816a7bb43a19",
+        "android_client_info": {
+          "package_name": "com.example.job_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967513354972-9mlj2p042dgso05cetk9euq381eqgsuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldY7fFLr_6EIrwLTaz6zUDEUdDPcRZGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967513354972-11ae22sm2l6p3d7ugglap69gne78clif.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967513354972-ma00mkjc1qvdt5em8v487blpkhrm0p0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezlineTask"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967513354972:android:decb4b2ca941cfb0b43a19",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967513354972-9mlj2p042dgso05cetk9euq381eqgsuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldY7fFLr_6EIrwLTaz6zUDEUdDPcRZGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967513354972-11ae22sm2l6p3d7ugglap69gne78clif.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967513354972-ma00mkjc1qvdt5em8v487blpkhrm0p0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezlineTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
