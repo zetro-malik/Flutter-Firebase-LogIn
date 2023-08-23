@@ -1,16 +1,35 @@
-# job_task
+# Firebase Authentication with GetX
 
-A new Flutter project.
+This Flutter project showcases a simple and organized authentication system built using Firebase and GetX following the MVC architecture. It includes login, signup, and forgot password functionality, supporting both email/password and Google authentication methods.
+
+## Features
+
+- User-friendly authentication flow using GetX for state management.
+- Firebase Email/Password authentication.
+- Firebase Google authentication.
+- Forgot password functionality for password recovery.
+- Code organized in a clean MVC (Model-View-Controller) architecture.
+
+## Technologies Used
+
+- Flutter
+- GetX for state management
+- Firebase Authentication (Email/Password and Google)
+- MVC (Model-View-Controller) architecture
+
+## Screenshots
+
+![Login](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132301.jpg)
+![Signup](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132305.jpg)
+![Forgot Password](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132309.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Install Flutter and Dart on your system.
+3. Set up a Firebase project and configure it with your app.
+4. Add your Firebase configuration details to the app (refer to `lib/firebase_config.dart`).
+5. Run the app using the following command:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
