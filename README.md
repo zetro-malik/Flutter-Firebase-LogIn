@@ -18,10 +18,12 @@ This Flutter project showcases a simple and organized authentication system buil
 - MVC (Model-View-Controller) architecture
 
 ## Screenshots
-
-![Login](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132301.jpg)
-![Signup](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132305.jpg)
-![Forgot Password](https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132309.jpg)
+<div>
+  <img src="https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132301.jpg" alt="Director View" width="200"/>
+  <img src="https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132305.jpg" alt="Add Room Data View" width="200"/>
+  <img src="https://github.com/zetro-malik/Flutter-Firebase-LogIn/blob/main/screenshots/Screenshot_20230823_132309.jpg" alt="Add Room Data View" width="200"/>
+  
+</div>
 
 ## Getting Started
 
